@@ -21,11 +21,11 @@ The three Manus operator context files were out of date. They referenced 35 herd
 
 ## Relevant Files
 
-The following three updated files should be dropped into `plans/charlie-herd/` to replace the existing versions:
+The following three updated files are attached alongside this handoff in `attachments/` and should be dropped into `plans/charlie-herd/` to replace the existing versions:
 
-- `plans/charlie-herd/paste-packs/manus-context.md` — Full platform context paste pack (updated skill count, expanded Research Layers section with all four skill tiers named)
-- `plans/charlie-herd/herd-state/operator-manus.md` — Posture + Buffalo Protocol + Exchange Packet contract (added Routing & Coordination section covering corral-inbox handoff skills)
-- `plans/charlie-herd/herd-state/manus-index.md` — Read order and routing index (updated registry pointer, added cross-machine routing row)
+- `attachments/manus-context.md` → `plans/charlie-herd/paste-packs/manus-context.md` — Full platform context paste pack (updated skill count, expanded Research Layers section with all four skill tiers named)
+- `attachments/operator-manus.md` → `plans/charlie-herd/herd-state/operator-manus.md` — Posture + Buffalo Protocol + Exchange Packet contract (added Routing & Coordination section covering corral-inbox handoff skills)
+- `attachments/manus-index.md` → `plans/charlie-herd/herd-state/manus-index.md` — Read order and routing index (updated registry pointer, added cross-machine routing row)
 
 ## Suggested Action
 
