@@ -7,6 +7,9 @@ created: 2026-04-12T17:33:21-0400
 repo: guru-to-md
 branch: main
 requires_response: true
+processed_by: charlie
+processed_at: 2026-04-12T21:58:49.926Z
+status: processed
 ---
 
 # Handoff: Add Codex and Gemini global agent context to installer
