@@ -7,6 +7,9 @@ created: 2026-04-12T17:20:00.000Z
 repo: guru-to-md
 branch: ai321digital/simulate-makefile
 requires_response: true
+processed_by: charlie
+processed_at: 2026-04-12T22:18:05.206Z
+status: processed
 ---
 
 # Handoff: Codex AGENTS.md — DB export missing personalization from Conductor+Codex session
