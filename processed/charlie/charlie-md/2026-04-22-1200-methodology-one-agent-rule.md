@@ -7,6 +7,9 @@ created: 2026-04-22T12:00:00Z
 repo: charlie-md
 branch: main
 requires_response: false
+processed_by: charlie
+processed_at: 2026-04-24T11:02:18.949Z
+status: processed
 ---
 
 # Handoff: Methodology Update — One Write-Access Agent Per Worktree
